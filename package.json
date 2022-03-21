@@ -1,0 +1,49 @@
+{
+	"name": "test_progect_rzhd",
+	"version": "1.0.0",
+	"private": true,
+	"description": "",
+	"author": "",
+	"scripts": {
+		"serve": "vue-cli-service serve --port 5555",
+		"build": "vue-cli-service build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"core-js": "^3.8.3",
+		"date-fns": "^2.28.0",
+		"vue": "^2.6.14",
+		"vue-router": "^3.5.1",
+		"vuetify": "^2.6.0",
+		"vuex": "^3.6.2"
+	},
+	"devDependencies": {
+		"@vue/cli-plugin-babel": "~5.0.0",
+		"@vue/cli-plugin-router": "~5.0.0",
+		"@vue/cli-plugin-vuex": "~5.0.0",
+		"@vue/cli-service": "~5.0.0",
+		"sass": "~1.32.0",
+		"sass-loader": "^10.0.0",
+		"vue-cli-plugin-vuetify": "~2.4.8",
+		"vue-template-compiler": "^2.6.14",
+		"vuetify-loader": "^1.7.0"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead"
+	],
+	"_id": "test_progect_rzhd@1.0.0",
+	"bugs": {
+		"url": "https://github.com/xIgor1982/test_progect_rzhd/issues"
+	},
+	"homepage": "https://github.com/xIgor1982/test_progect_rzhd#readme",
+	"keywords": [],
+	"license": "ISC",
+	"readme": "ERROR: No README data found!",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xIgor1982/test_progect_rzhd.git"
+	}
+}
